@@ -1,0 +1,10 @@
+# Archivos temporales y copias de seguridad
+*.bak
+*.old
+*.original
+*.dms-original
+*~
+
+# Archivos temporales de editores
+*.swp
+*.swo
